@@ -5,7 +5,7 @@ ORD_A = "A".ord #65
 ORD_Z = "Z".ord #90
 
 #Displacement of the order of the character
-#It accepts negative values
+#It accepts positive or negative values
 OFFSET=-12; #You can change this value
 
 def enter_phrase
